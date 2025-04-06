@@ -5,7 +5,7 @@ I wanted to write my own Mandelbrot view generator
 Examples:
 
 ![example1](examples/mandelbrot_-0.4946056692302699_0.5228201901111635_1647419.457903703_pastel_1743955806.png)
-![example2](examples/mandelbrot_0.20431238534638974_0.5407556700519905_34865493.4546207_pastel_1743955024.png)
+![example2](examples/mandelbrot_-0.726841346892587_0.17729658114104746_82117.05981841612_fire_1743954882.png)
 
 We use a classic iterative approach to visualize the Mandelbrot set,
 
